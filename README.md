@@ -1,6 +1,9 @@
 # برنامج تصميم واجهات وتجربة المستخدم
 برنامج تصميم واجهات وتجربة المستخدم - الجبيل
 
+
+![Ad](https://github.com/shaima-alghamdi-tuwaiq/UX-DESIGN-JUBAIL/blob/main/ux-design-jubail.jpeg)
+
 ## وصف الدورة 
 تعرف على الخطوات المتبّعة في بناء واجهة وتجربة المستخدم، 
 من خلال العبور على مجموعة من المفاهيم والخطوات منها:
@@ -37,4 +40,3 @@
 - اليوم الرابع (مرحلة التصميم النهائي) 
 - اليوم الخامس (الحفل الختامي)
 
-![Ad](https://github.com/shaima-alghamdi-tuwaiq/UX-DESIGN-JUBAIL/blob/main/ux-design-jubail.jpeg)
